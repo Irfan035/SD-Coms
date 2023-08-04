@@ -1,0 +1,5 @@
+[09-Apr-2021 07:55:21 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ';' or ',' in /home/sdcojtof/public_html/courses/index.php on line 790
+[14-Apr-2021 04:11:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/sdcojtof/public_html/courses/index.php:808
+Stack trace:
+#0 {main}
+  thrown in /home/sdcojtof/public_html/courses/index.php on line 808
