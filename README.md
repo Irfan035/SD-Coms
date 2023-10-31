@@ -3,7 +3,8 @@ Website live url: http://sdcoms.com/
 
 SD Communication marketing agency
 
-**Development process:**
+**Development Process:**
+
 Figma to HTML.
 
 Using HTML, CSS, JavaScript, and Bootstrap for web development
